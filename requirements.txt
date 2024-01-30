@@ -3,7 +3,6 @@ pandas
 gdown
 dvc
 mlflow==2.2.2
-gunicorn==21.2.0
 notebook
 numpy
 matplotlib
