@@ -49,7 +49,10 @@ export MLFLOW_TRACKING_PASSWORD=55343c50b515f85d83d1bbecdf5e45f6664231d3
 
 
 
-### DVC cmd
+### Data Version Control(DVC)
+
+We use DVC to track our data and pipeline so that we dont need to do the same task again and again. here we track our pipeline using dvc
+Anyone interested can go through this [link](https://dvc.org/doc)
 
 1. dvc init
 2. dvc repro
