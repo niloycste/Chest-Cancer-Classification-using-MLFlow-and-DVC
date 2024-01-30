@@ -1,7 +1,5 @@
 # Chest-Cancer-Classification-using-MLFlow-and-DVC
 
-# End-to-End-Chest-Cancer-Classification-using-MLflow-DVC
-
 
 ## Workflows
 
@@ -76,7 +74,7 @@ DVC
 
 
  # Deploy This DL Model into render
- 
+
 
 
 
