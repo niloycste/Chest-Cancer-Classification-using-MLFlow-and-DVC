@@ -75,6 +75,8 @@ DVC
 
  # Deploy This DL Model into render
 
+ <img src = "images/cancer.png" width="" height="">
+
 
 
 
