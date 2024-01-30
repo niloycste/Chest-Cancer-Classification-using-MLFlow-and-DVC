@@ -75,6 +75,10 @@ DVC
  - It can perform Orchestration (Creating Pipelines)
 
 
+ # Deploy This DL Model into render
+ 
+
+
 
 # AWS-CICD-Deployment-with-Github-Actions
 
